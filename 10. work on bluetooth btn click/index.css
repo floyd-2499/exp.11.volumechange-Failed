@@ -1,0 +1,10 @@
+.container h1 {
+    font-size: 40px;
+}
+.container h3 {
+    font-size: 36px;
+}
+.container .btn{
+padding: 10px 30px;
+font-size: 20px;
+}
